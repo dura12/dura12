@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dureti</h1>
 <h3 align="center">Hey! I'm a passionate full-stack developer and A2SV Trainee,I’ve solved 560+ LeetCode problems and love building impactful, scalable products. Driven, curious, and always up for a challenge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dura12&label=Profile%20views&color=0e75b6&style=flat" alt="dura12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dura12" alt="dura12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [AI voice recruiting agent](https://github.com/dura12/ai-voice-interview-platform)
 
